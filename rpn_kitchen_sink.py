@@ -125,6 +125,7 @@ class Calculator:
             '-': operator.sub,
             '*': operator.mul,
             '/': operator.truediv,
+    	    '^': math.pow,
             }
 
 
